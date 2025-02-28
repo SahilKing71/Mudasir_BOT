@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=Mudasir'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
         <img 
-            alt="PRINCE BOT" 
+            alt="MUDASIR BOT" 
             width="720"
             height="420" 
             src="https://qu.ax/UGCpR.jpg" 
@@ -17,7 +17,7 @@
         >
     </a>
 
-# ![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+PRINCE-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
+# ![MUDASIR-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+MUDASIR-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
 
 ---
 
@@ -35,7 +35,7 @@
   <a href="https://gd-sdeploy.vercel.app/">
     <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=PRINCE-MD&env[OWNER_NUMBER]=6281220527432%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=all&env[DATABASE_URL]=&env[ANTI_LINK]=true&env[AutoReaction]=false&env[STATUSVIEW]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[REJECTSCALLS]=false&env[CALLMSG]=For+now+calls+are+restricted+by+my+owner&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[AUTO_APPROVE_USERS]=92%2C880&env[PACK_NAME]=Prince%F0%9F%92%96&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_&env[STATUSVIEW]=true&env[StatusEmojies]=♥️%2C🤗%2C❤️%2C💞%2C❣️%2C💙%2C💛%2C🤍%2C💚%2C😍%2C🥰%2C💝%2C💖%2C💗%2C💓%2C💞%2C💕%2C❣️%2C💘%2C💟%2C🖤%2C🤎%2C💜%2C💫%2C🌸">
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/ SahilKing71/ Mudasir_BOT&branch=main&name=princegds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]= Mudasir_BOT&env[OWNER_NUMBER]=923239956476%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=all&env[DATABASE_URL]=&env[ANTI_LINK]=true&env[AutoReaction]=false&env[STATUSVIEW]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Mudasir+bot&env[REJECTSCALLS]=false&env[CALLMSG]=For+now+calls+are+restricted+by+my+owner&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[AUTO_APPROVE_USERS]=92%2C880&env[PACK_NAME]=Prince%F0%9F%92%96&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_&env[STATUSVIEW]=true&env[StatusEmojies]=♥️%2C🤗%2C❤️%2C💞%2C❣️%2C💙%2C💛%2C🤍%2C💚%2C😍%2C🥰%2C💝%2C💖%2C💗%2C💓%2C💞%2C💕%2C❣️%2C💘%2C💟%2C🖤%2C🤎%2C💜%2C💫%2C🌸">
     <img src="https://img.shields.io/badge/KOYEB-000000?style=for-the-badge&logo=koyeb" style="vertical-align: middle; margin-right: 10px;">
 </a>
 </div>
@@ -81,8 +81,8 @@
 
 <div align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="60%"/>
-  <h3 style="color: #7b68ee; font-family: 'Roboto';">⚡ POWERED BY DASTAGEER ⚡</h3>
-  <a href="https://github.com/DASTAGHIR/PRINCEMD/blob/main/LICENSE">
+  <h3 style="color: #7b68ee; font-family: 'Roboto';">⚡ POWERED BY MUDASIR⚡</h3>
+  <a href="https://github.com/SahilKing71/Mudasir_BOT/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-GPL3.0-7B68EE?style=for-the-badge">
   </a>
 </div>
