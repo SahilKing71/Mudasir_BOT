@@ -1,9 +1,9 @@
 {
-  "name": "PRINCEAI",
+  "name": "Mudasir_BOT",
   "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEAI",
+  "repository": "https://github.com/SahilKing71/Mudasir_BOT",
   "logo": "https://qu.ax/lwgPL.jpg",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEAI",
+  "success_url": "https://github.com/SahilKing71/Mudasir_BOT",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": " Mudasir_BOT"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "923239956476, MUDASIR♥️KING"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
